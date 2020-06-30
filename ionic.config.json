@@ -1,7 +1,0 @@
-{
-  "name": "trabalhoIonic",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
